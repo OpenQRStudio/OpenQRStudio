@@ -77,7 +77,7 @@ If you want your codes available across multiple devices or browsers, you can si
 | Plan | Codes stored | Price |
 |---|---|---|
 | No account | Up to 5,000 (local only) | Free |
-| Free account | Up to 10 (cloud sync) | Free |
+| Free account | Up to 5 (cloud sync) | Free |
 | One-time purchase *(coming soon)* | Up to 200 (cloud sync) | 10€ |
 
 ## 🌐 Browser support
